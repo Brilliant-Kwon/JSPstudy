@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="JAX-WS-Apache Axis" type="JAX-WS">
+    <properties version="Apache Axis" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/saaj.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-discovery-0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/axis.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jaxrpc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/wsdl4j-1.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../servletEx/lib/javax.annotation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../servletEx/lib/javax.ejb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../servletEx/lib/javax.jms.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../servletEx/lib/javax.persistence.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../servletEx/lib/javax.resource.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../servletEx/lib/javax.servlet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../servletEx/lib/javax.servlet.jsp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../servletEx/lib/javax.servlet.jsp.jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../servletEx/lib/javax.transaction.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
