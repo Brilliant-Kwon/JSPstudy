@@ -6,7 +6,25 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8adf2fda-e93f-4e6f-9e86-dd253dfd952b" name="Default Changelist" comment="" />
+    <list default="true" id="8adf2fda-e93f-4e6f-9e86-dd253dfd952b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/web/Mar_21/kck/content.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Mar_21/kck/down.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Mar_21/kck/js/actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Mar_21/kck/left.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Mar_21/kck/right.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Mar_21/kck/up.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Mar_25/eyr/ex07-01.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Mar_25/eyr/jquery-1.9.0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Mar_25/eyr/process.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Mar_25/jquery/jquery-1.9.0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Mar_25/kck/ex07-01.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Mar_25/kck/process.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/javascript/jquery/jquery-1.9.0.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPstudy_war_exploded/Mar_18/ohs/ex2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/JSPstudy_war_exploded/Mar_18/ohs/ex2.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPstudy_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/JSPstudy_war_exploded/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,120 +33,82 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/Mar_18/kck/a.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="412">
-              <caret line="36" column="23" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="23" />
-              <folding>
-                <element signature="e#795#801#0#HTML" expanded="true" />
-                <element signature="e#853#859#0#HTML" expanded="true" />
-                <element signature="e#911#917#0#HTML" expanded="true" />
-                <element signature="e#969#975#0#HTML" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/Mar_18/kck/b.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="46" column="2" lean-forward="true" selection-start-line="46" selection-start-column="2" selection-end-line="46" selection-end-column="2" />
-              <folding>
-                <element signature="e#674#680#0#HTML" expanded="true" />
-                <element signature="e#732#738#0#HTML" expanded="true" />
-                <element signature="e#790#796#0#HTML" expanded="true" />
-                <element signature="e#848#854#0#HTML" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/Mar_18/kck/sum.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="24" column="6" lean-forward="true" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/Mar_18/eyr/index.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-124">
-              <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/Mar_18/eyr/result.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1230">
-              <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/Mar_18/sgw/calc.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/Mar_18/sgw/result.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/Mar_18/kmj/cal.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="9" column="43" lean-forward="true" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/Mar_18/ohs/ex1.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/Mar_18/ohs/ex2.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="40" column="13" lean-forward="true" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/web/Mar_25/kck/ex07-01.jsp">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="468">
+                  <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="60" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/web/Mar_25/eyr/ex07-01.jsp">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="78">
+                  <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/web/Mar_25/kck/process.jsp">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="312">
+                  <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/web/Mar_25/eyr/process.jsp">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="234">
+                  <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/web/Mar_25/eyr/process.jsp">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="264">
+                  <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/web/index.jsp">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="205">
+                  <caret line="27" column="10" lean-forward="true" selection-start-line="13" selection-end-line="27" selection-end-column="10" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
         <option value="Jsp File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -143,11 +123,25 @@
         <option value="$PROJECT_DIR$/web/Mar_16/kck/b.jsp" />
         <option value="$PROJECT_DIR$/web/Mar_18/eyr/index.jsp" />
         <option value="$PROJECT_DIR$/web/Mar_18/kck/a.jsp" />
-        <option value="$PROJECT_DIR$/web/Mar_18/kmj/cal.jsp" />
-        <option value="$PROJECT_DIR$/web/index.jsp" />
         <option value="$PROJECT_DIR$/web/Mar_18/eyr/result.jsp" />
         <option value="$PROJECT_DIR$/web/Mar_18/ohs/ex1.jsp" />
         <option value="$PROJECT_DIR$/web/Mar_18/ohs/ex2.jsp" />
+        <option value="$PROJECT_DIR$/web/Mar_21/kck/up.html" />
+        <option value="$PROJECT_DIR$/web/Mar_21/kck/left.html" />
+        <option value="$PROJECT_DIR$/web/Mar_21/kck/right.html" />
+        <option value="$PROJECT_DIR$/web/Mar_21/kck/down.html" />
+        <option value="$PROJECT_DIR$/web/Mar_21/kck/right.jsp" />
+        <option value="$PROJECT_DIR$/web/Mar_21/kck/left.jsp" />
+        <option value="$PROJECT_DIR$/web/Mar_21/kck/down.jsp" />
+        <option value="$PROJECT_DIR$/web/Mar_21/kck/js/actions.js" />
+        <option value="$PROJECT_DIR$/web/Mar_21/kck/up.jsp" />
+        <option value="$PROJECT_DIR$/web/Mar_21/kck/content.jsp" />
+        <option value="$PROJECT_DIR$/web/Mar_18/kmj/cal.jsp" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/web/Mar_25/kck/process.jsp" />
+        <option value="$PROJECT_DIR$/web/Mar_25/eyr/process.jsp" />
+        <option value="$PROJECT_DIR$/web/Mar_25/kck/ex07-01.jsp" />
+        <option value="$PROJECT_DIR$/web/Mar_25/eyr/ex07-01.jsp" />
       </list>
     </option>
   </component>
@@ -164,18 +158,20 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-8" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,21 +188,20 @@
               <item name="JSPstudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSPstudy" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="Mar_18" type="462c0819:PsiDirectoryNode" />
+              <item name="javascript" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSPstudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSPstudy" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="javascript" type="462c0819:PsiDirectoryNode" />
+              <item name="jquery" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JSPstudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSPstudy" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="Mar_18" type="462c0819:PsiDirectoryNode" />
-              <item name="eyr" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JSPstudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSPstudy" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="Mar_18" type="462c0819:PsiDirectoryNode" />
-              <item name="kck" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JSPstudy" type="b2602c69:ProjectViewProjectNode" />
@@ -219,15 +214,28 @@
               <item name="JSPstudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSPstudy" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="Mar_18" type="462c0819:PsiDirectoryNode" />
-              <item name="ohs" type="462c0819:PsiDirectoryNode" />
+              <item name="Mar_25" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JSPstudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="JSPstudy" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="Mar_18" type="462c0819:PsiDirectoryNode" />
-              <item name="sgw" type="462c0819:PsiDirectoryNode" />
+              <item name="Mar_25" type="462c0819:PsiDirectoryNode" />
+              <item name="eyr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSPstudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSPstudy" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="Mar_25" type="462c0819:PsiDirectoryNode" />
+              <item name="jquery" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JSPstudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JSPstudy" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="Mar_25" type="462c0819:PsiDirectoryNode" />
+              <item name="kck" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JSPstudy" type="b2602c69:ProjectViewProjectNode" />
@@ -246,28 +254,29 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552951419248" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553728842945" />
     <property name="last_opened_file_path" value="C:/apache-tomcat-8.5.38/lib/servlet-api.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.14990513" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\k1212\bitacademy\JSPstudy\web\Mar_25\eyr" />
+      <recent name="C:\Users\k1212\bitacademy\JSPstudy\web\Mar_25" />
+      <recent name="C:\Users\k1212\bitacademy\JSPstudy\web" />
+      <recent name="C:\Users\k1212\bitacademy\JSPstudy\web\Mar_21\kck" />
       <recent name="C:\Users\k1212\bitacademy\JSPstudy\web\Mar_18\ohs" />
-      <recent name="C:\Users\k1212\bitacademy\JSPstudy\web\Mar_16\sgw" />
-      <recent name="C:\Users\k1212\bitacademy\JSPstudy\web\Mar_16\eyr" />
-      <recent name="C:\Users\k1212\bitacademy\JSPstudy\web\Mar_16" />
-      <recent name="C:\Users\k1212\bitacademy\JSPstudy\lib" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\k1212\bitacademy\JSPstudy\web\Mar_16\kck" />
@@ -287,10 +296,11 @@
     </option>
   </component>
   <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.38">
-    <configuration name="a.jws" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/WEB-INF/views/Mar_16/a.jws">
+    <configuration name="a.jws" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:8080/WEB-INF/views/Mar_16/a.jws">
       <method v="2" />
     </configuration>
     <configuration name="Tomcat 8.5.38" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.38" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
       <deployment>
         <artifact name="JSPstudy:war exploded">
           <settings>
@@ -300,6 +310,8 @@
       </deployment>
       <server-settings>
         <option name="BASE_DIRECTORY_NAME" value="Unnamed_JSPstudy" />
+        <option name="HTTP_PORT" value="8099" />
+        <option name="JNDI_PORT" value="1095" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -365,11 +377,6 @@
       <item itemvalue="JavaScript Debug.a.jws" />
       <item itemvalue="Tomcat Server.Tomcat 8.5.38" />
     </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JavaScript Debug.a.jws" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -382,18 +389,23 @@
       <option name="presentableId" value="Default" />
       <updated>1552719583505</updated>
       <workItem from="1552719588264" duration="1065000" />
-      <workItem from="1552720690474" duration="12874000" />
+      <workItem from="1552720690474" duration="12879000" />
+      <workItem from="1553066711623" duration="5045000" />
+      <workItem from="1553125359923" duration="3533000" />
+      <workItem from="1553498670594" duration="10740000" />
+      <workItem from="1553730068340" duration="1000" />
+      <workItem from="1553755631511" duration="624000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13939000" />
+    <option name="totallyTimeSpent" value="33887000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16979866" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13624161" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -404,7 +416,44 @@
       <window_info id="Web" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3298969" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24943566" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CheckStyle" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Tail" order="13" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="bottom" id="Database Changes" order="15" />
+      <window_info anchor="bottom" id="Version Control" order="16" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32871014" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17181209" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3298969" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -428,7 +477,7 @@
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -455,98 +504,163 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/Mar_18/kck/a.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
+        <state relative-caret-position="936">
           <caret line="36" column="23" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="23" />
-          <folding>
-            <element signature="e#795#801#0#HTML" expanded="true" />
-            <element signature="e#853#859#0#HTML" expanded="true" />
-            <element signature="e#911#917#0#HTML" expanded="true" />
-            <element signature="e#969#975#0#HTML" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/Mar_18/kck/sum.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="24" column="6" lean-forward="true" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+        <state relative-caret-position="624">
+          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/Mar_18/eyr/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-124">
+        <state relative-caret-position="286">
           <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/Mar_18/eyr/result.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1230">
+        <state relative-caret-position="780">
           <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/Mar_18/ohs/ex2.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="40" column="13" lean-forward="true" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/Mar_18/ohs/ex1.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/Mar_18/sgw/calc.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+        <state relative-caret-position="286">
+          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/Mar_18/sgw/result.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/Mar_18/kmj/cal.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" column="43" lean-forward="true" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        <state relative-caret-position="286">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/Mar_18/kck/b.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="46" column="2" lean-forward="true" selection-start-line="46" selection-start-column="2" selection-end-line="46" selection-end-column="2" />
-          <folding>
-            <element signature="e#674#680#0#HTML" expanded="true" />
-            <element signature="e#732#738#0#HTML" expanded="true" />
-            <element signature="e#790#796#0#HTML" expanded="true" />
-            <element signature="e#848#854#0#HTML" expanded="true" />
-          </folding>
+        <state relative-caret-position="1092">
+          <caret line="42" column="2" selection-start-line="42" selection-start-column="2" selection-end-line="42" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/javascript/jquery/jquery-1.9.0.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Mar_21/kck/up.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Mar_21/kck/down.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="65" selection-start-column="65" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Mar_21/kck/left.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="65" selection-start-column="65" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Mar_21/kck/right.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="65" selection-start-column="65" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Mar_21/kck/js/actions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Mar_18/ohs/ex1.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Mar_18/ohs/ex2.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1040">
+          <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Mar_21/kck/content.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Mar_18/kmj/cal.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="43" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Mar_25/jquery/jquery-1.9.0.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Mar_25/eyr/jquery-1.9.0.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Mar_25/kck/ex07-01.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Mar_25/kck/process.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Mar_25/eyr/ex07-01.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Mar_25/eyr/process.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="27" column="10" lean-forward="true" selection-start-line="13" selection-end-line="27" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -569,7 +683,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Web (JSPstudy)|Web</last-edited>
+          <last-edited>WebServices (JSPstudy)|WebServices</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -10,8 +10,8 @@
    %>
    
    <% String[] values = request.getParameterValues("calc"); %>
-    <% if(values[0].equals("plus") ) 
-    {
+    <% if(values[0].equals(\ )
+    {"plus")
     	result = num1+num2;
     }
     else if(values[0].equals("minus"))

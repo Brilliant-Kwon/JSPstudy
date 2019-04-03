@@ -26,6 +26,34 @@
             </tr>
         </table>
     </div>
+    <div style="width:600px;border: 1px solid #000000; margin: 0 auto; padding: 30px; background: burlywood">
+        <table>
+            <tr>
+                <th colspan="5">3월 21일 문장변경</th>
+            </tr>
+            <tr>
+                <td><a href="<%=request.getContextPath() %>/Mar_21/kck/content.jsp">권찬근</a></td>
+                <td><a href="<%=request.getContextPath() %>/Mar_18/kmj/cal.jsp">김민지</a></td>
+                <td><a href="<%=request.getContextPath() %>/Mar_18/sgw/result.jsp">손건우</a></td>
+                <td><a href="<%=request.getContextPath() %>/Mar_18/eyr/index.jsp">엄유리</a></td>
+                <td><a href="<%=request.getContextPath() %>/Mar_18/ohs/ex1.jsp">오현수</a></td>
+            </tr>
+        </table>
+    </div>
+    <div style="width:600px;border: 1px solid #000000; margin: 0 auto; padding: 30px; background: burlywood">
+        <table>
+            <tr>
+                <th colspan="5">3월 21일 문장변경</th>
+            </tr>
+            <tr>
+                <td><a href="<%=request.getContextPath() %>/Mar_21/kck/content.jsp">권찬근</a></td>
+                <td><a href="<%=request.getContextPath() %>/Mar_18/kmj/cal.jsp">김민지</a></td>
+                <td><a href="<%=request.getContextPath() %>/Mar_18/sgw/result.jsp">손건우</a></td>
+                <td><a href="<%=request.getContextPath() %>/Mar_18/eyr/index.jsp">엄유리</a></td>
+                <td><a href="<%=request.getContextPath() %>/Mar_18/ohs/ex1.jsp">오현수</a></td>
+            </tr>
+        </table>
+    </div>
 </div>
 </body>
 </html>
